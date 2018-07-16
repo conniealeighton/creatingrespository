@@ -1,1 +1,2 @@
 Change to file1
+New line
